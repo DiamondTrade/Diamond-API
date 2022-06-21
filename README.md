@@ -6,9 +6,3 @@ Create cryptocurrency payments, without creating an account, that respect your p
 # Documentation
 ### `POST` [Create payment](https://github.com/DiamondTrade/Diamond-API/blob/main/docs/CreatePayment.MD)
 ### `GET` [Payment Status](https://github.com/DiamondTrade/Diamond-API/blob/main/docs/PaymentStatus.MD)
-
-## You're a startup ?
-Get a custom limits ? Contact us at `diamond@diamond-trade.vip`
-
-## Avoid rate limits ? 
-Contact us at `diamond@diamond-trade.vip`, explain us your project.
